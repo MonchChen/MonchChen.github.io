@@ -8,8 +8,4 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
-
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
+我会持续录制Android APP架构方面的学习视频，望大家持续关注. :+1:
